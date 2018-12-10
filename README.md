@@ -39,7 +39,6 @@ Example output:
 Any available locale on the server can be used.
 Here is a list of possible locales.
 
-`
     af_NA: "Afrikaans (Namibia)",
     af_ZA: "Afrikaans (South Africa)",
     af: "Afrikaans",
@@ -474,7 +473,5 @@ Here is a list of possible locales.
     yo: "Yoruba",
     zu_ZA: "Zulu (South Africa)",
     zu: "Zulu"
-`
-
 
 Brought to you by [The Indigo Viking](https://www.theindigoviking.com)

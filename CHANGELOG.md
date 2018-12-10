@@ -7,3 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## 1.0 - 2018-12-10
 ### Added
 - Initial release
+
+## 1.0 - 2018-12-10
+### Added
+- README Update
